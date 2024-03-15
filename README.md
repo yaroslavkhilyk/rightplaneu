@@ -7,10 +7,10 @@ ROLE: CODE WITH INSTRUCTOR (CwI); Instructor: Mateusz Maj;
 ## LINK TO PROJECT: #
 
 ## TECHNOLOGIES, WHICH WERE USED TO MAKE THIS PROJECT:
--HTML
--CSS/SASS
--Grid
--JavaScript
+- HTML
+- CSS/SASS
+- Grid
+- JavaScript
 
 ## MAIN GOALS OF THIS PROJECT:
 - Learn basics and use Grid technology in practice
