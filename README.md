@@ -1,5 +1,5 @@
 # Rightplan.eu
-It a non-real financial on-line financial service, which offers the most profitable investment plans to customers from all over the world
+It a non-real financial on-line service, which offers the most profitable investment plans to customers from all over the world
 
 ## TECHNICAL PARAMETERS OF THIS PROJECT:
 ROLE: CODE WITH INSTRUCTOR (CwI), Instructor: Mateusz Maj
