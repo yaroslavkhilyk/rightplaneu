@@ -1,5 +1,5 @@
 # Rightplan.eu
-it`s a professional (non-real) e-sport organization from Poland, Lower Silesia.
+It a non-real financial on-line financial service, which offers the most profitable investment plans to customers from all over the world
 
 ## TECHNICAL PARAMETERS OF THIS PROJECT:
 ROLE: CODE WITH INSTRUCTOR (CwI), Instructor: Mateusz Maj
